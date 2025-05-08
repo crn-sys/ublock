@@ -1,0 +1,93 @@
+! Jun 9, 2024 https://m.greatandhra.com
+m.greatandhra.com###vuukle-comments
+m.greatandhra.com###vuukle-emote
+m.greatandhra.com##.footer_background-2
+m.greatandhra.com###vuukle-comments-bubble-v-comments
+m.greatandhra.com##.vuukle-powerbar
+! m.greatandhra.com##.content_blocks
+m.greatandhra.com##[src="https://m.greatandhra.com/IC/IndianClicks_GVega_GAM_380x50_03212024_1_1.gif"]
+
+! Jun 9, 2024 https://telugu.greatandhra.com
+||cdn.vuukle.com/widgets/index.html$subdocument
+||cdn.vuukle.com/widgets/*.html?version=3.*$subdocument
+||cdn.vuukle.com/widgets/*.html?version=*$subdocument
+
+! Jun 14, 2024 https://m.greatandhra.com
+m.greatandhra.com##.container-inner
+
+! Jun 14, 2024 https://www.reddit.com
+www.reddit.com##.theme-beta.fixed.z-\[3\].h-header-large.right-0.left-0.top-0.nd\:visible
+
+! Jun 15, 2024 https://www.indiatoday.in
+www.indiatoday.in##.tapBoxCls
+www.indiatoday.in##.recommended__widget.AiRecommended_recommended__widget__ZkRo0
+www.indiatoday.in##.footernav.MobileFooterNav_footernav__I20W1
+www.indiatoday.in##.story__recommended__chunk
+www.indiatoday.in##.is-sticky.newtss_whtapp
+www.indiatoday.in##.topBanner_wrap.widgetgap
+www.indiatoday.in##.paywall.description.Story_description__fq_4S.jsx-ace90f4eca22afc7 > .container
+www.indiatoday.in###tab-link-wrapper-plugin
+
+! Jun 15, 2024 https://www.reddit.com
+www.reddit.com###pdp-right-rail-topics > .xs\:px-0.px-md
+
+! Jun 19, 2024 https://www.ndtv.com
+www.ndtv.com###__cube
+www.ndtv.com##.story_ft-nav
+www.ndtv.com##.stf__block
+www.ndtv.com##.ui-draggable-handle.ui-draggable
+www.ndtv.com##.MSub-nav > .vjl-cntr2
+
+! Jun 20, 2024 https://www.ndtv.com
+www.ndtv.com##.in-viewport.tbl-next-up-mobile-position-bottom.tbl-next-up.tbl-floating-unit
+www.ndtv.com##.fvotd.video_wrapper
+
+! Jun 20, 2024 https://www.indiatoday.in
+www.indiatoday.in##.home_page.stickyad.container.ads__common
+
+! Jun 20, 2024 https://www.newstap.in
+www.newstap.in##.nav-bar-sticky.is-ts-sticky.clearfix.main-nav
+
+! Jun 22, 2024 https://sakshi.com
+sakshi.com##.fixed-bottom-nav
+
+! Jun 22, 2024 https://www.ndtv.com
+www.ndtv.com##.dock-fix.mobile-dock.crd_img
+
+! Jun 24, 2024 https://sakshi.com
+sakshi.com##.header_bottom_wrap
+sakshi.com##.nav_mobile
+
+! Jul 3, 2024 https://www.andhrafriends.com
+www.andhrafriends.com##.ipsMargin_vertical.ipsResponsive_showPhone.ipsResponsive_pull.ipsPadding.ipsBox
+www.andhrafriends.com##.ipsLayout_sidebarright
+
+! Jul 9, 2024 https://www.andhrafriends.com
+www.andhrafriends.com###ipsLayout_mainArea > .cWidgetContainer
+
+! Jul 22, 2024 https://www.andhrafriends.com
+
+! Jul 22, 2024 https://www.andhrafriends.com
+www.andhrafriends.com###elPostFeed center
+
+! Jul 23, 2024 https://www.andhrafriends.com
+www.andhrafriends.com##li.ipsDataItem:nth-of-type(2)
+
+! Aug 20, 2024 https://www.andhrafriends.com
+www.andhrafriends.com##jamx-player
+
+! Aug 28, 2024 https://telugu.greatandhra.com
+telugu.greatandhra.com##.header-wrap
+
+! Oct 25, 2024 https://www.reddit.com
+www.reddit.com###main-content > .absolute
+www.reddit.com###credential_picker_iframe
+
+! Dec 29, 2024 https://www.outlookbusiness.com
+www.outlookbusiness.com##header
+
+! Jan 5, 2025 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.T2ytB.OePOQ.CZcr4
+
+! Apr 3, 2025 https://m.greatandhra.com
+m.greatandhra.com##[src="https://m.greatandhra.com/IC/IndianClicks_Universal_Finanicals_GAM_380x50_03122025_1_1.gif"]
